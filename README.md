@@ -5,7 +5,7 @@ Este repositório tem como objetivo expor a wiki do projeto de análise de requi
 
 |Significado | Descrição                                      | Símbolo| Fonte|
 |---         |---                                             | ---    |---   |
-| Passageiro | Aquele que usa o aplicativo de viagens da UBER |<img src="https://cdn.pixabay.com/photo/2013/07/13/13/14/people-160620_960_720.png" height="42" width="42"> </img>| https://cdn.pixabay.com/photo/2013/07/13/13/14/people-160620_960_720.png|
+| Passageiro | Aquele que usa o aplicativo de viagens da UBER |<img src="https://png.icons8.com/ios/1600/passenger-with-baggage-filled.png" height="42" width="42"> </img>| https://png.icons8.com/ios/1600/passenger-with-baggage-filled.png|
 | Motorista  | Aquele que usa o aplicativo para dar carona |<img src="http://www.opentechgr.com.br/wp-content/uploads/2018/07/icon-motorista.png" height="42" width="42"></img>|http://www.opentechgr.com.br/wp-content/uploads/2018/07/icon-motorista.png|
 | Pagamento Cartão| Icone que simboliza o pagamento através do cartão | <img src="https://cdn.icon-icons.com/icons2/1259/PNG/512/1495815224-jd15_84582.png" height="42" width="42"></img>|https://cdn.icon-icons.com/icons2/1259/PNG/512/1495815224-jd15_84582.png|
 | Pagamento Dinheiro| Icone que simboliza o pagamento em dinheiro|<img src="http://www.plataformaunificada.com.br/imagens/icone-formas-de-pagamento.png" height="42" width="42"></img>|http://www.plataformaunificada.com.br/imagens/icone-formas-de-pagamento.png|
