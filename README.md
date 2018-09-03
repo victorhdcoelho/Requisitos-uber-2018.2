@@ -10,3 +10,5 @@ Este repositório tem como objetivo expor a wiki do projeto de análise de requi
 | Pagamento Cartão| Icone que simboliza o pagamento atravez do cartão | <img src="https://cdn.icon-icons.com/icons2/1259/PNG/512/1495815224-jd15_84582.png" height="42" width="42"></img>|https://cdn.icon-icons.com/icons2/1259/PNG/512/1495815224-jd15_84582.png|
 | Pagamento Dinheiro| Icone que simboliza o pagamento em dinheiro|<img src="http://www.plataformaunificada.com.br/imagens/icone-formas-de-pagamento.png" height="42" width="42"></img>|http://www.plataformaunificada.com.br/imagens/icone-formas-de-pagamento.png|
 | Aplicativo passageiro uber| Aplicativo para solicitar viagens|<img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/Rider_Icon.png" height="42" width="42"></img>|https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/Rider_Icon.png|
+| Aplicativo motorista uber| Aplicativo que recebe as resquisições de viagens | <img src="https://www.logolynx.com/images/logolynx/79/79351419dab7a407c31017eda0f3ca9c.jpeg" height="42" width="42"></img>|https://www.logolynx.com/images/logolynx/79/79351419dab7a407c31017eda0f3ca9c.jpeg|
+
