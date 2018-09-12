@@ -18,6 +18,3 @@ Este repositório tem como objetivo expor a wiki do projeto de análise de requi
 | *Hamburguer Button*| Icone do menu de opções| <img src="https://cdn1.iconfinder.com/data/icons/basic-ui-elements-color-round/3/06-512.png" height="60" width="60"></img>|https://cdn1.iconfinder.com/data/icons/basic-ui-elements-color-round/3/06-512.png|
 | Mapa/GPS| Icone que simboliza o mapa e o GPS | <img src="https://image.flaticon.com/icons/svg/235/235861.svg" height="60" width="60"></img>|https://image.flaticon.com/icons/svg/235/235861.svg|
 | Configurações| Icone que simboliza as configurações | <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-4fd5a1386bf0d12ddc9c195d5850348e-cog.png" height="60" width="60"></img>|http://www.myiconfinder.com/uploads/iconsets/256-256-4fd5a1386bf0d12ddc9c195d5850348e-cog.png|
-| Notificações| Icone que simboliza as notificações| <img src="http://luzdaserra.net/wp-content/uploads/2018/02/icon-push-notifications.png" height="60" width="60"></img>|http://luzdaserra.net/wp-content/uploads/2018/02/icon-push-notifications.png|
-| Perfil| Icone que simboliza Perfil| <img src="http://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png" height="60" width="60"></img>|http://icons.iconarchive.com/icons/pelfusion/long-shadow-media/512/Contact-icon.png|
-
